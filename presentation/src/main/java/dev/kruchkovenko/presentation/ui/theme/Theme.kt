@@ -1,4 +1,4 @@
-package dev.kruchkovenko.whatsGoingOn.ui.theme
+package dev.kruchkovenko.presentation.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme

@@ -23,3 +23,4 @@ rootProject.name = "What's going on"
 include(":app")
 include(":domain")
 include(":data")
+include(":presentation")
